@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Beeminder Recipes
 
-You can use the [editor on GitHub](https://github.com/narthur/beeminder-recipes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Stingy Routines
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I want something that will poke me on a daily basis, a reminder I can’t (safely) ignore (hygiene).
 
-### Markdown
+## Do-more Nudge
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I want to be motivated to do more on a goal than I normally would (exercise).
 
-```markdown
-Syntax highlighted code block
+## Tracking Goal
 
-# Header 1
-## Header 2
-### Header 3
+I want to track data (health metrics, meta goals).
 
-- Bulleted
-- List
+## Going Hard Core
 
-1. Numbered
-2. List
+I never want to have even the option of derailing (addictions, hard-core commitments).
 
-**Bold** and _Italic_ and `Code` text
+## Clarifying Exceptions
 
-[Link](url) and ![Image](src)
-```
+I want to have the option of derailing in unusual circumstances using a pledge bright line (work or study hours).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Back Burner / Life Support
 
-### Jekyll Themes
+I want to maintain a low commitment on something that I just don’t want to die (side projects).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/narthur/beeminder-recipes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Far Horizon Reminders
 
-### Support or Contact
+I want to make sure I don’t forget to do something that I only need to do every so often (check oil, check fire alarm batteries, etc).
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Guardrails
+
+I want to have the freedom of doing an activity without risking a self-destructive binge; just need a guardrail (gaming, YouTube, social media).
+
+## Behavior Elimination
+
+I want to actively eliminate an activity from my life (addictions, negative health behaviors).
+
+## Jump Starters
+
+I just want something that will encourage me to put in the activation energy of starting, but will leave me free to do as much or as little as I want beyond that (side projects, exercise).
+
+## Toe Dipping
+
+I want to start my goal out very conservatively and not feel forced into ratcheting it up until I feel ready (scary goals, exercise, side projects, anything).
