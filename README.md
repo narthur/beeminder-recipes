@@ -1,6 +1,6 @@
 # Beeminder Recipes
 
-## Stingy Routines
+## Persistent Routines
 
 I want something that will poke me on a daily basis, a reminder I can’t (safely) ignore (hygiene).
 
